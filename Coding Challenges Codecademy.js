@@ -1,4 +1,4 @@
-	// Code Challeng 1:
+	// Code Challenge 1:
 
 	function reverseArray(arr) {
 			let end = arr.length - 1;
